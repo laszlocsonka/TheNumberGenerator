@@ -5,9 +5,8 @@ Simple Number Generator App made with Android Studio
 <br/> 
  
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>With Toast messages</li>
+  <li>With splash screen activity</li>
 </ul> 
 
 <br/> 
