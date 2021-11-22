@@ -1,9 +1,9 @@
 # TheNumberGenerator
 Simple Number Generator App made with Android Studio
 
-<p>Hi, I am a line<br /> 
+<p><br /> 
 <br /> 
-I am another line.</p> 
+</p> 
 
 <div class="row">
   <div class="column">
