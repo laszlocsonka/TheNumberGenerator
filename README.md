@@ -4,6 +4,14 @@ Simple Number Generator App made with Android Studio
 <br/> 
 <br/> 
  
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul> 
+
+<br/> 
+<br/> 
 
 <div class="row">
   <div class="column">
