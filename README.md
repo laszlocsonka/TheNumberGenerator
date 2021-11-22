@@ -1,6 +1,10 @@
 # TheNumberGenerator
 Simple Number Generator App made with Android Studio
 
+<p>Hi, I am a line<br /> 
+<br /> 
+I am another line.</p> 
+
 <div class="row">
   <div class="column">
     <img src="https://user-images.githubusercontent.com/43496943/142928940-b1007708-c76d-47ed-bc13-1b191ecf7873.jpg" style="width:30%">
