@@ -2,14 +2,12 @@
 Simple Number Generator App made with Android Studio
 
 <br/> 
-<br/> 
  
 <ul>
   <li>With Toast messages</li>
   <li>With splash screen activity</li>
 </ul> 
 
-<br/> 
 <br/> 
 
 <div class="row">
