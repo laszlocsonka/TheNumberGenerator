@@ -4,6 +4,7 @@ Simple Number Generator App made with Android Studio
 <br/> 
  
 <ul>
+  <li>Java language</li>
   <li>With Toast messages</li>
   <li>With splash screen activity</li>
 </ul> 
